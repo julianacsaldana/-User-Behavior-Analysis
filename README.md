@@ -1,1 +1,3 @@
-# -User-Behavior-Analysis
+# User-Behavior-Analysis
+## User Behavior and Marketing Profitability
+This project aims to analyze the behavior of users of Showz, an event ticketing platform, in order to optimize the marketing strategy and maximize business profitability. By analyzing data on visits, purchases, and advertising expenditures between 2017 and 2018, the project seeks to understand how users interact with the service, when they decide to buy, how much economic value they contribute over time, and whether the investment in each acquisition channel generates positive returns. With this information, the analytics team can make data-driven decisions about where to invest the marketing budget and which channels to prioritize to acquire profitable customers.
